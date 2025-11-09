@@ -1,4 +1,4 @@
-# Blogging Platform - System Design Project
+# Blogging Platform - System
 
 A production-ready blogging platform built with Django REST Framework featuring role-based access control, comment moderation, post interactions, and comprehensive analytics.
 
